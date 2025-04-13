@@ -1,4 +1,5 @@
-<h2 align="center">Hi there, I'm Luke</h2>
+<p align="center"><strong>Hi there, I'm Luke</strong></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744549191/github-repo-icons/squiggly-line-light.svg">
@@ -9,7 +10,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744554573/github-repo-icons/information-light.svg">
-    <img alt="Information Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744554573/github-repo-icons/information-dark.svg" width="40">
+    <img alt="Information Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744554573/github-repo-icons/information-dark.svg" width="35">
   </picture>
 
   <h4>About Me</h4>
@@ -17,9 +18,9 @@
 
 I'm a passionate developer focused on building modern web applications using **Next.js**, **React**, and **Tailwind CSS**. I enjoy learning new technologies and contributing to open-source projects.
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, MongoDB, Prisma, ...
-**Currently learning:** Web Performance Optimization, ...
-**Current focus:** Contributing to open-source projects and building full-stack apps
+- **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, MongoDB, Prisma, ...
+- **Currently learning:** Web Performance Optimization, ...
+- **Current focus:** Contributing to open-source projects and building full-stack apps
 
 <p align="center">
   <picture>
@@ -44,7 +45,7 @@ Here are some of the cool things I've worked on:
     <td style="vertical-align: middle;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555802/project-icons/minimil-logo-dark.svg">
-        <img alt="Minimil Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555803/project-icons/minimil-logo-light.svg" width="40">
+        <img alt="Minimil Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555803/project-icons/minimil-logo-light.svg" width="35">
       </picture>
     </td>
     <td style="padding-left: 10px;">
