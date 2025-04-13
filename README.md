@@ -39,10 +39,17 @@ I'm a passionate developer focused on building modern web applications using **N
 
 Here are some of the cool things I've worked on:
 
-<div align="left" style="display: flex; align-items: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555157/project-icons/minimil-logo-light.svg">
-    <img alt="Minimil Logo" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555157/project-icons/minimil-logo-dark.svg" width="40">
-  </picture>
-  <p style="margin-left: 10px;">[**Minimil**](https://github.com/tanlucvn/minimil) - A clean, scalable Next.js starter template with Tailwind CSS, dark/light mode, and PWA support.</p>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555802/project-icons/minimil-logo-dark.svg">
+        <img alt="Minimil Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555803/project-icons/minimil-logo-light.svg" width="40">
+      </picture>
+    </td>
+    <td style="padding-left: 10px;">
+      <a href="https://github.com/tanlucvn/minimil"><strong>Minimil</strong></a> – A clean, scalable Next.js starter template with Tailwind CSS, dark/light mode, and PWA support.
+    </td>
+  </tr>
+</table>
+
