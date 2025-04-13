@@ -1,4 +1,4 @@
-<p align="center"><strong>Hi there, I'm Luke</strong></p>
+<p align="center"><strong>HI THERE, I'M LUKE</strong></p>
 
 <p align="center">
   <picture>
@@ -10,7 +10,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744554573/github-repo-icons/information-light.svg">
-    <img alt="Information Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744554573/github-repo-icons/information-dark.svg" width="35">
+    <img alt="Information Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744554573/github-repo-icons/information-dark.svg" width="40">
   </picture>
 
   <h4>About Me</h4>
@@ -45,7 +45,7 @@ Here are some of the cool things I've worked on:
     <td style="vertical-align: middle;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555802/project-icons/minimil-logo-dark.svg">
-        <img alt="Minimil Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555803/project-icons/minimil-logo-light.svg" width="35">
+        <img alt="Minimil Icon" src="https://res.cloudinary.com/ddkhkc3uu/image/upload/v1744555803/project-icons/minimil-logo-light.svg" width="40">
       </picture>
     </td>
     <td style="padding-left: 10px;">
